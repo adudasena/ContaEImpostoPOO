@@ -23,7 +23,8 @@ Projeto em Java desenvolvido para praticar conceitos de **Programação Orientad
 ---
 ## 📚 O que aprendi:
 
-- Criação de múltiplas classes e objetos interagindo entre si.
-- Organização de código orientado a entidades.
-- Uso de métodos e atributos personalizados por classe.
-- Estruturação de simulação básica com controle de estados.
+- Aplicação prática de herança em cenários reais.
+- Diferença entre métodos sobrescritos e herdados.
+- Organização de lógica por classes e responsabilidades.
+
+
